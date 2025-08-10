@@ -139,6 +139,6 @@ install_leda_cli
 
 echo "✅ 安装完成！你可以使用以下命令："
 echo "  leda status        # 查看状态"
-echo "  leda set pink      # 设置颜色（若服务在运行会被覆盖）"
+echo "  leda set red/blue/green/...# 设置颜色（若服务在运行会被覆盖）"
 echo "  leda service stop  # 停止服务后再手动设色"
 echo "  leda logs -f       # 查看日志"
