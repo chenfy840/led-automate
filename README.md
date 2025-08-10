@@ -18,7 +18,7 @@ curl -fsSL https://raw.githubusercontent.com/chenfy840/led-automate/main/install
 ## 📦 卸载方式
 
 ```shell
-curl -fsSL https://raw.githubusercontent.com/chenfy840/led-automate/main/uninstall-led.sh.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/chenfy840/led-automate/main/uninstall-led.sh | sudo bash
 ```
 
 ## 📦 使用方式
