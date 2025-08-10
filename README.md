@@ -11,8 +11,21 @@
 
 推荐使用一键安装脚本：
 
-```bash
+```shell
 curl -fsSL https://raw.githubusercontent.com/chenfy840/led-automate/main/install-led.sh | sudo bash
+```
 
+## 📦 卸载方式
 
+```shell
+curl -fsSL https://raw.githubusercontent.com/chenfy840/led-automate/main/uninstall-led.sh.sh | sudo bash
+```
 
+## 📦 使用方式
+
+```shell
+leda status        # 查看状态
+leda set red/green/blue/...      # 设置颜色（若服务在运行会被覆盖）
+leda service stop  # 停止服务后再手动设色
+leda logs -f       # 查看日志
+```
