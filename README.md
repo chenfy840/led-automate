@@ -30,7 +30,6 @@ curl -fsSL https://raw.githubusercontent.com/chenfy840/led-automate/main/uninsta
 ```shell
 命令	         说明
 leda status	查看当前系统状态与各项指标阈值
-leda get	查看当前 LED 的颜色值
 leda set cyan	手动设置为指定颜色（支持常用颜色英文名）
 leda set rgb R G B	按 RGB 数值直接设定颜色（如 1 0 0）
 leda service restart	重启 LED 自动控制服务
