@@ -26,6 +26,13 @@ curl -fsSL http://git.ppp.ac.cn/https://raw.githubusercontent.com/chenfy840/led-
 ```
 若无法使用请使用原地址
 
+或使用 我不是矿神 的
+```shell
+curl -L http://code.imnks.com/hosts-auto1007.sh | bash
+```
+一键更改hosts
+
+
 ## 📦 卸载方式
 
 ```shell
