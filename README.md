@@ -19,6 +19,13 @@
 curl -fsSL https://raw.githubusercontent.com/chenfy840/led-automate/main/install-led.sh | sudo bash
 ```
 
+国内加速
+
+```shell
+curl -fsSL http://git.ppp.ac.cn/https://raw.githubusercontent.com/chenfy840/led-automate/main/install-led.sh | sudo bash
+```
+若无法使用请使用原地址
+
 ## 📦 卸载方式
 
 ```shell
